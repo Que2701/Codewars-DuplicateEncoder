@@ -1,0 +1,7 @@
+C:\Users\tumelom\source\repos\DuplicateEncoder\DuplicateEncoderApp\bin\Debug\DuplicateEncoderApp.exe.config
+C:\Users\tumelom\source\repos\DuplicateEncoder\DuplicateEncoderApp\bin\Debug\DuplicateEncoderApp.exe
+C:\Users\tumelom\source\repos\DuplicateEncoder\DuplicateEncoderApp\bin\Debug\DuplicateEncoderApp.pdb
+C:\Users\tumelom\source\repos\DuplicateEncoder\DuplicateEncoderApp\obj\Debug\DuplicateEncoderApp.csprojAssemblyReference.cache
+C:\Users\tumelom\source\repos\DuplicateEncoder\DuplicateEncoderApp\obj\Debug\DuplicateEncoderApp.csproj.CoreCompileInputs.cache
+C:\Users\tumelom\source\repos\DuplicateEncoder\DuplicateEncoderApp\obj\Debug\DuplicateEncoderApp.exe
+C:\Users\tumelom\source\repos\DuplicateEncoder\DuplicateEncoderApp\obj\Debug\DuplicateEncoderApp.pdb
